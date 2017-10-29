@@ -1,0 +1,44 @@
+@CHARSET "ISO-8859-1";
+body{
+	background-color: lightgrey;
+}
+table {
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+#header {
+ 
+   text-align: center;
+   font-size: 25px;
+}
+#header2{
+	
+}
+#uploadme{
+	padding: 25px;
+}
+.btn {
+    background: #fff;
+    border:3px solid grey;
+    padding: 5px;
+    width: 200px;
+    text-align:left;
+}
+#btn_container img {
+    border: 6px solid red;
+    margin-right: 5px;    
+    vertical-align: middle;
+}
+.btn-txt {
+    vertical-align: middle;
+}
+#welcome{
+padding-top: 200px;
+
+}
+#edit{
+	padding-top: 20px;
+}
